@@ -1,0 +1,15 @@
+{
+  "name": "AntShot",
+  "url": "https://antshot.com/",
+  "description": "Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page",
+  "category": "utilities",
+  "platforms": ["chrome"],
+  "deal": "35% off Pro Lifetime with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "lifetime",
+  "price": { "regular": 39, "sale": 25.35, "currency": "USD" },
+  "discount": 35,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-02",
+  "icon": "https://antshot.com/icon.png"
+}
